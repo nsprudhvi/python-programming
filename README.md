@@ -1,8 +1,8 @@
-#Data Management and Python Programming Exam Solutions
+<h1>Data Management and Python Programming Exam Solutions </h1>
 
-Congratulations! This repository showcases the successful completion of the Data Management and Python Programming exam, scoring an A grade.
+<b>Congratulations!</b> This repository showcases the successful completion of the Data Management and Python Programming exam, scoring an A grade.
 
-The exam consisted of 3 sections: Python programming, Pandas, and SQL, and the solutions to each of these sections have been provided here.
+The exam consisted of 3 sections: <b>Python programming</b>, <b>Pandas</b>, and <b>SQL</b>, and the solutions to each of these sections have been provided here.
 
 These solutions can serve as a valuable reference for anyone looking to improve their skills in data management and Python programming. If you're just starting out, or you're a seasoned data analyst, this repository is a great resource for expanding your knowledge and skills.
 
