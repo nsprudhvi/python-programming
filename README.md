@@ -9,13 +9,11 @@ These solutions can serve as a valuable reference for anyone looking to improve 
 Note: All sensitive information such as student ID and exam details have been removed to maintain confidentiality.
 
 
-
-
 Exam Details
 The exam consisted of three sections:
-Python programming (4 assignments, 8 points + possibility for 1 bonus point)
-Pandas (6 assignments, 12 points + possibility for 1 bonus point)
-SQL (10 assignments, 20 points + possibility for 1 bonus point)
+<br><b>Python programming</b> (4 assignments, 8 points + possibility for 1 bonus point) </br>
+<br><b>Pandas</b> (6 assignments, 12 points + possibility for 1 bonus point) </br>
+<br><b>SQL</b> (10 assignments, 20 points + possibility for 1 bonus point) </br>
 
 Instructions for Using the Repository:
 Clone the repository or download the files to your local machine.
