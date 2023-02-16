@@ -1,4 +1,4 @@
-<h1>Data Management and Python Programming Exam Solutions </h1>
+<h1>Data Management and Python Programming</h1>
 
 <b>Congratulations!</b> This repository showcases the successful completion of the Data Management and Python Programming exam, scoring an A grade.
 
